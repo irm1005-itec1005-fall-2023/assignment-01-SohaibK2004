@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title Here</title>
+</head>
+<body>
+
+<!-- Header Section -->
+<header>
+    <img src="images/killua.jpg" alt="An image of Killua">
+    <h1>The World of Killua Zoldyck</h1>
+    <nav>
+        <a href="#hero">Home</a>
+        <a href="#path">Path</a>
+        <a href="#abilities">Abilities</a>
+        <a href="#companions">Companions</a>
+    </nav>
+</header>
+
+<!-- Main Section -->
+<main>
+    <!-- Hero Section -->
+    <section id="hero">
+        <img src="images/killua.jpg" alt="Killua Zoldyck with a confident smile">
+        <h2>The Lightning Assassin: Killua Zoldyck</h2>
+        <p>Dive into the electrifying world of Killua Zoldyck, the heir to the notorious Zoldyck assassin family from the acclaimed anime series, Hunter x Hunter.</p>
+    </section>
+    
+    <!-- Additional Content Sections -->
+    <section id="path">
+        <h2>Unveiling the Assassin's Path</h2>
+        <p>Explore the complex and riveting journey of Killua, from his early days as a trained assassin to his adventures with Gon and friends. Discover the challenges, battles, and friendships that define his path.</p>
+    </section>
+    <section id="abilities">
+        <h2>Power and Abilities</h2>
+        <p>Killua literally has godspeed power of lightning, which makes him superfast. He's only 12 with that much talent, so yeah, he will definitely be one of the strongest hunters by the end of the anime/manga if it ever continues.</p>
+    </section>
+    <section id="companions">
+        <h2>Killua's Companions</h2>
+        <p>In my opinion the greatest duo of all time, THEY'RE THE GOATS. I am talking about Killua and Gon.</p>
+    </section>
+
+    <!-- Form Section -->
+    <form action="#" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <input type="submit" value="Submit">
+    </form>
+</main>
+
+<!-- Footer Section -->
+<footer>
+    <img src="images/killua.jpg" alt="An image of Killua">
+    <p>The World of Killua Zoldyck</p>
+    <nav>
+        <a href="#hero">Home</a>
+        <a href="#path">Path</a>
+        <a href="#abilities">Abilities</a>
+        <a href="#companions">Companions</a>
+    </nav>
+    <p>&copy; 2023 The World of Killua Zoldyck</p>
+</footer>
+
+</body>
+</html>
